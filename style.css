@@ -334,3 +334,65 @@ body {
     color: #26A05A;
 }
 
+
+.box21 {
+    width: 1440px;
+    height: 350px;
+    margin-top: 80px;
+    background: #262626;
+}
+
+.box22 {
+    position: relative;
+    width: 1140px;
+    height: 350px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.text25 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 18px;
+}
+
+.box23 {
+    display: flex;
+    gap: 20px;
+}
+
+.box24 {
+    width: 260px;
+}
+
+.text26 {
+    position: relative;
+    padding-left: 14px;
+    font-size: 11px;
+    color: #fff;
+    margin-bottom: 11px;
+    white-space: nowrap;
+}
+
+.text26::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 4px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #3DB86F;
+}
+
+.img4 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 380px;
+    height: 374px;
+    object-fit: contain;
+    object-position: right bottom;
+}
+
