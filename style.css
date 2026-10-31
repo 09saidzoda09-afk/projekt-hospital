@@ -217,3 +217,53 @@ body {
     object-fit: contain;
     object-position: right bottom;
 }
+
+.box12 {
+    width: 1140px;
+    margin: 100px auto 0;
+}
+
+.text20 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 24px;
+}
+
+.box13 {
+    display: flex;
+    gap: 12px;
+}
+
+.box14 {
+    width: 366px;
+    height: 160px;
+    padding: 18px 20px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.box15 {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #3DB86F, #26A05A);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+
+.ico5 {
+    font-size: 20px;
+    color: #fff;
+}
+
+.text21 {
+    font-family: "Nunito", sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: #222;
+}
+
