@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    background: #fff;
+    color: #0F2540;
+}
+
+.tamomash {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.box1 {
+    width: 1140px;
+    margin: 0 auto;
+    padding-top: 12px;
+}
+
+.box2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.text1, .text2 {
+    font-size: 14px;
+    color: #4a4a4a;
+}
+
+.box3 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.ico1 {
+    font-size: 14px;
+    color: #4a4a4a;
+}
+
+.text3 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #0F2540;
+}
+
+.but1 {
+    height: 32px;
+    padding: 0 18px;
+    border: none;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #3DB86F, #26A05A);
+    color: #fff;
+    font-family: inherit;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.box4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 48px;
+    margin-top: 4px;
+}
+
+.img1 {
+    width: 94px;
+    height: 36px;
+    object-fit: contain;
+}
+
+.box5 {
+    display: flex;
+    gap: 28px;
+}
+
+.text4, .text5, .text6, .text7, .text8,
+.text9, .text10, .text11, .text12 {
+    font-size: 15px;
+    color: #0F2540;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.text4:hover, .text5:hover, .text6:hover, .text7:hover, .text8:hover,
+.text9:hover, .text10:hover, .text11:hover, .text12:hover {
+    color: #26A05A;
+}
+
+.ico2 {
+    display: none;
+    font-size: 22px;
+    color: #0F2540;
+    cursor: pointer;
+}
+
+.box6 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 14px;
+}
+
+.text13 {
+    font-size: 11px;
+    color: #4a4a4a;
+}
+
+.ico3 {
+    font-size: 8px;
+    color: #4a4a4a;
+}
+
+.text14 {
+    font-size: 11px;
+    font-weight: 700;
+    color: #0F2540;
+}
+
